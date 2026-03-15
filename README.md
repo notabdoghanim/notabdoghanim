@@ -1,18 +1,90 @@
-# 💫 About Me:
-👋 Hi, I'm Abdallah Ghanim — Cybersecurity Student from Egypt<br>Focused on Cybersecurity, Problem Solving,CTF labs, and exploring Linux systems and python and C/C++ development.
+<div align="center">
 
+# 👋 Hi, I'm Abdallah Ghanim
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdallah-ghanim-527326393/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@notabdoghanim2007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:notabdoghanim2007@gmail.com) 
+### Cybersecurity Student | CTF Player | Linux & Networking 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notabdoghanim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=notabdoghanim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notabdoghanim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=800&center=true&width=900&lines=Cybersecurity+Student;CTF+Player;Linux+Enthusiast;Offensive+Security" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=notabdoghanim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧑‍💻 About Me
+
+🎓 Cybersecurity Student from Egypt  
+🐧 Linux & Networking   
+🏴‍☠️ Active in CTF challenges  
+💻 Passionate about Offensive Security & Practical Projects  
+
+---
+
+# 🛠️ Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,bash,git,github" />
+
+</div>
+
+---
+
+# 🔐 Cybersecurity Platforms
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/notabdoghanim2007">
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🧠 Cybersecurity Interests
+
+- Penetration Testing  
+- Networking & Linux Systems  
+- Capture The Flag (CTF) Challenges  
+- Ethical Hacking  
+- Practical Security Projects  
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=notabdoghanim&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notabdoghanim&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdallah-ghanim-527326393/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://tryhackme.com/p/notabdoghanim2007">
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
+
+<a href="mailto:notabdoghanim2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Ready for real projects | Always learning cybersecurity
+
+</div>
